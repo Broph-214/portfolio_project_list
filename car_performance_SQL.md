@@ -48,7 +48,7 @@ ORDER BY power_hp DESC
 LIMIT 5;
 ```
 
-![](assets\sql_cars\top_cars_hp.PNG)
+![](assets/sql_cars/top_cars_hp.PNG)
 
 The vehicles with the most powerful engines were electric, manufactured by either Tesla or Porche. This was expected as electric drivetrains deliver maximum torque immediately compared to vehicles with internal combustion engines. To filter out electric vehicles the following where clause was added to the above query:
 
@@ -56,7 +56,7 @@ The vehicles with the most powerful engines were electric, manufactured by eithe
 WHERE fuel_type IN ('Petrol','Diesel')
 ```
 
-![](assets\sql_cars\top_zeroelec_hp.PNG)
+![](assets/sql_cars/top_zeroelec_hp.PNG)
 
 Aston Martin and Mclaren manufactured cars with the most horsepower across diesel and petrol vehicles. While the data showed that the Valiant and Valour models both output 705 imperial horsepower from their engines, specifications from Aston Martin indicate that the Valiant's power is 745ps or ~735hp. Reported by the New Car Fuel Consumption & Emission Figures, model definitions were taken from EC Type Approval Documentation, which may be slightly different from commercial descriptions (Vehicle Certification Agency, 2025). This may also be the reason why engine performance values may differ from certification data. Alternatively, the data was dated for 2026, and was accessed for this analysis in March 2026. It is possible that future amendments to the data set could still occur, which could involve changes being made to the performance values. 
 
@@ -80,7 +80,7 @@ ORDER BY model_count DESC
 LIMIT 5;
 ```
 
-![](assets\sql_cars\engine_percentile_count.PNG)
+![](assets/sql_cars/engine_percentile_count.PNG)
 
 Aston Martin had the most unique models in the top 20% of engine performance. Something to note is that different body styles of Aston Martin cars (DB12, DB12 Coupe, DB12 Volante) were classified as different models in the dataset. However, if some of the model's reported performance differ from commercially reported values (i.e. the Aston Martin Valiant), then these figures may not provide an actual count for models in the 95<sup>th</sup> percentile.
 
@@ -125,7 +125,7 @@ ORDER BY mpge DESC
 LIMIT 5;
 ```
 
-![](assets\sql_cars\top_cars_fe.PNG)
+![](assets/sql_cars/top_cars_fe.PNG)
 
 Expectedly, electric cars were the most fuel efficient with the Mini Aceman coming out on top as the most efficient. Electric vehicles are more efficient when converting energy into motion as cars with internal combustion engines will lose energy from heat and friction.  
 
@@ -138,7 +138,7 @@ WHERE fuel_type NOT LIKE 'Electricity'
 ORDER BY mpge DESC;
 ```
 
-![](assets\sql_cars\top_hybrids_fe.PNG)
+![](assets/sql_cars/top_hybrids_fe.PNG)
 
 Then, any vehicles that could be charged electrically were filtered out:
 
@@ -149,7 +149,7 @@ WHERE fuel_type IN ('Petrol','Diesel')
 ORDER BY mpge DESC;
 ```
 
-![](assets\sql_cars\top_fuel_fe.PNG)
+![](assets/sql_cars/top_fuel_fe.PNG)
 
 ```SQL
 -- How many unique models did the top 5 manufacturers make where the car's fuel efficiency was in the top 5% of all models for that year?
@@ -180,7 +180,7 @@ ORDER BY model_count DESC
 LIMIT 5;
 ```
 
-![](assets\sql_cars\efficiency_percentile_count.PNG)
+![](assets/sql_cars/efficiency_percentile_count.PNG)
 
 The top 5 companies each made 4 models that made it into the top 5% of fuel efficient cars. The following 9 places were filled with companies that had made 3 cars each. These companies included Fiat, Lexus, and Mercedes, amongst others.
 
