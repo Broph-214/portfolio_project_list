@@ -1,6 +1,5 @@
 <h1><ins> Performance and Fuel Efficiency of New Cars 2026</ins></h1>
-<i>Data dated from 01/01/2026 to 16/03/2026. Information provided in the Vehicle's Certification Agency's New Car Fuel Consumption & Emission may be subject to change
-Figures</i>
+<i>Data dated from 01/01/2026 to 16/03/2026. Information provided in the Vehicle's Certification Agency's New Car Fuel Consumption & Emission may be subject to change</i>
 
 <h2>Data Source</h2>
 
