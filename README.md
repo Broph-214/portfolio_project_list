@@ -22,3 +22,8 @@ Code Link
 ### Cruft's Dog Competition Exploratory Data Analysis (Dashboard)
 Microsoft Excel, Microsoft Power BI
 [https://broph-214.github.io/projects/BI_dashboard.html](https://broph-214.github.io/projects/BI_dashboard.html)
+
+## SQL
+### Car Model Comparisons Across Performance and Efficiency
+PostreSQL, DBeaver
+[https://github.com/Broph-214/portfolio_project_list/blob/main/car_performance_SQL.md](https://github.com/Broph-214/portfolio_project_list/blob/main/car_performance_SQL.md)

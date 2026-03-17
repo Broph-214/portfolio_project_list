@@ -84,7 +84,7 @@ LIMIT 5;
 
 Aston Martin had the most unique models in the top 20% of engine performance. Something to note is that different body styles of Aston Martin cars (DB12, DB12 Coupe, DB12 Volante) were classified as different models in the dataset. However, if some of the model's reported performance differ from commercially reported values (i.e. the Aston Martin Valiant), then these figures may not provide an actual count for models in the 95<sup>th</sup> percentile.
 
-Overall, while the analysis may not have answered the question it had intended to, it provided valuable insight into the discrepancies between commercially reported figures and offically certified figures.
+Overall, while the analysis may not have answered the question it had intended to, it provided valuable insight into the discrepancies between commercially reported figures and officially certified figures.
 
 <h2>Fuel Efficiency</h2>
 
