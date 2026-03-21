@@ -8,6 +8,11 @@ Logistic Regression, JupyterLab, Matplotlib
 
 [https://github.com/Broph-214/portfolio_project_list/blob/main/adults_LD_logistic_regression.ipynb](https://github.com/Broph-214/portfolio_project_list/blob/main/adults_LD_logistic_regression.ipynb)
 
+### You've Got Mail! Analysing The Efficiency of a Feedforward Neural Network in Detecting Spam Emails.
+Tensorflow, Feedforward Networks, Machine Learning, JupyterLab
+
+[https://github.com/Broph-214/portfolio_project_list/blob/main/spam_neural_network.ipynb](https://github.com/Broph-214/portfolio_project_list/blob/main/spam_neural_network.ipynb)
+
 
 ### Recency Frequency Monerary (RFM Analysis) - UCI Retail Dataset
 RFM Analysis, Customer Segmentation, Python, JupyterLab, Plotly
