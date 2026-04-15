@@ -24,10 +24,16 @@ Code Link:
 [https://github.com/Broph-214/portfolio_project_list/blob/main/UCI_retail_rfm_analysis.ipynb](https://github.com/Broph-214/portfolio_project_list/blob/main/UCI_retail_rfm_analysis.ipynb)
 
 ## Power BI
+
 ### Cruft's Dog Competition Exploratory Data Analysis (Dashboard)
 Microsoft Excel, Microsoft Power BI
 
-[https://broph-214.github.io/projects/BI_dashboard.html](https://broph-214.github.io/projects/BI_dashboard.html)
+[https://broph-214.github.io/projects/crufts_dashboard.html](https://broph-214.github.io/projects/crufts_dashboard.html)
+
+### UCI Retail II Dashboard Dashboard and Model Overview
+Microsoft Power BI, Power Query, DAX
+
+[https://broph-214.github.io/projects/uci_retail_II_dashboard.html](https://broph-214.github.io/projects/uci_retail_II_dashboard.html)
 
 ## SQL
 ### Car Model Comparisons Across Performance and Efficiency
