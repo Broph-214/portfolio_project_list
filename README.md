@@ -3,7 +3,7 @@ A list of my analysis projects.
 
 ## Tools Index
 
-[Python](##python)
+[Python](#python)
 
 [Power BI](#power-bi)
 
