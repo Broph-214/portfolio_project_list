@@ -3,11 +3,11 @@ A list of my analysis projects.
 
 ## Tools Index
 
-[Python](#python)
+[1.) Python](#python)
 
-[Power BI](#power-bi)
+[2.) Power BI](#power-bi)
 
-[SQL](#sql)
+[3.) SQL](#sql)
 
 
 ## Python
