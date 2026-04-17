@@ -1,6 +1,15 @@
 # Portfolio Project List
 A list of my analysis projects.
 
+## Tools Index
+
+[Python](##python)
+
+[Power BI](#power-bi)
+
+[SQL](#sql)
+
+
 ## Python
 
 ### Exploring the Effects of Sex and Deprivation Decile on Employment for Adults on Long Term Support with a Learning Disability.
@@ -34,6 +43,11 @@ Microsoft Excel, Microsoft Power BI
 Microsoft Power BI, Power Query, DAX
 
 [https://broph-214.github.io/projects/uci_retail_II_dashboard.html](https://broph-214.github.io/projects/uci_retail_II_dashboard.html)
+
+### Power BI Dashboard Gallery
+Microsoft Power BI, Power Query, DAX
+
+[https://broph-214.github.io/projects/dashboard_gallery.html](https://broph-214.github.io/projects/dashboard_gallery.html)
 
 ## SQL
 ### Car Model Comparisons Across Performance and Efficiency
